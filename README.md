@@ -42,6 +42,6 @@
 <p align="left">
  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://icons8.com/icon/33039/amazon-web-services" alt="AWS" width="40" height="40"/>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank" rel="noreferrer"> 
 </p>
+          
