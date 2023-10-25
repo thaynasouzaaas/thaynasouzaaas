@@ -45,8 +45,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<div>
-<a href="https://github.com/thaynasouzaaas">
-<img loading="lazy" height="180em" src="https://github.com/thaynasouzaaas"/>
-<img loading="lazy" height="180em" src="https://github.com/thaynasouzaaas/">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?thaynasouzaaas=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
