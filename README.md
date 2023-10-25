@@ -47,6 +47,6 @@
 
 <div>
 <a href="https://github.com/thaynasouzaaas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/thaynasouzaaas&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/thaynasouzaaas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github.com/thaynasouzaaas"/>
+<img loading="lazy" height="180em" src="https://github.com/thaynasouzaaas/">
 </div>
