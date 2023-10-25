@@ -45,4 +45,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?thaynasouzaaas=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaynasouzaaas&show_icons=true&locale=en&layout=compact" alt="thaynasouzaaas" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynasouzaaas&show_icons=true&locale=en" alt="thaynasouzaaas" /></p>
